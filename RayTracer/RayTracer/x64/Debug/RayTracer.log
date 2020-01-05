@@ -1,0 +1,17 @@
+﻿  raytracer.cpp
+C:\Users\fei\Documents\RayTracer\RayTracer\raytracer.cpp(203,38): warning C4244: '=': conversion from 'genType' to 'unsigned char', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\fei\Documents\RayTracer\RayTracer\raytracer.cpp(204,42): warning C4244: '=': conversion from 'genType' to 'unsigned char', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\fei\Documents\RayTracer\RayTracer\raytracer.cpp(205,42): warning C4244: '=': conversion from 'genType' to 'unsigned char', possible loss of data
+          with
+          [
+              genType=float
+          ]
+  RayTracer.vcxproj -> C:\Users\fei\Documents\RayTracer\x64\Debug\RayTracer.exe
