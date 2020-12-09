@@ -1,5 +1,6 @@
 # RayTracer
 A simple raytracing algorithm written in C++ that draws an image consisting of a varying number of ellipses and light sources
+
 ![Sample Output](https://github.com/willu98/RayTracer/blob/master/RayTracer/RayTracer/Project3TestsAndKeys/keySample.png)
 
 # Features
