@@ -4,7 +4,7 @@ A simple raytracing algorithm written in C++ that draws an image consisting of a
 ![Sample Output](https://github.com/willu98/RayTracer/blob/master/RayTracer/RayTracer/Project3TestsAndKeys/keySample.png)
 
 # Features
-Given .txt file, generates a ppm image of a scene utilizing the Phong reflection model method. Each scene features
+Given .txt file, generates a ppm image file of a scene utilizing the Phong reflection model method. Each scene features
 * Ellipsoids of varying relfective properties, dimensions, color and position
 * Lighting of varying intensity and position
 * Ambient light
